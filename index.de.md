@@ -1,12 +1,12 @@
 ---
 title: mapschool
 layout: default
-language: en
+language: de
 ---
 
 # map school
 
-What is a map? Until the 1980s, maps were painstaking documents created by hand. These days maps are almost always made with the help of a computer. Maps today are commonplace, interspersed in driving directions, visualizations, and political boundary disputes. Let's look deeper and think about the fundamental elements of maps from the eye of the creator.
+Was ist eine Karte? Bis in die 1980er Jahre wurden Karten immer noch sorgfältig von Hand gezeichnet. Heutzutage werden Karten fast ausschließlich mit Hilfe eines Computers hergestellt. Karten sind heute alltägliche Begleiter, in Wegbeschreibungen, im Navi, zur Veranschaulichungen von wirtschaftlichen Gegebenheiten oder etwa bei politischen Grenzstreitigkeiten. Schauen wir einmal genauer hin und betrachten die Grundelemente von Karten aus der Sicht eines Kartografen.
 
 Computer maps are fundamentally composed of data. Data is in the abstract, composed of billions of points or just a few polygons, or a photo-like recording of colors and temperature. It is important that data is not specific to a certain usage.
 
