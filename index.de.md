@@ -8,7 +8,7 @@ language: de
 
 Was ist eine Karte? Bis in die 1980er Jahre wurden Karten immer noch sorgfältig von Hand gezeichnet. Heutzutage werden Karten fast ausschließlich mit Hilfe eines Computers hergestellt. Karten sind heute alltägliche Begleiter, in Wegbeschreibungen, im Navi, zur Veranschaulichungen von wirtschaftlichen Gegebenheiten oder etwa bei politischen Grenzstreitigkeiten. Schauen wir einmal genauer hin und betrachten die Grundelemente von Karten aus der Sicht eines Kartografen.
 
-Computer maps are fundamentally composed of data. Data is in the abstract, composed of billions of points or just a few polygons, or a photo-like recording of colors and temperature. It is important that data is not specific to a certain usage.
+Karten, die mit Hilfe eines Computers erstellt werden, bestehen vollständig aus Daten. Daten können sozusagen Milliarden Bildpunkte sein oder aber auch einige wenige Polygone, oder eine fotorealisitsche Aufzeichung von Farben oder von Temperaturen. Wichtig hierbei ist, dass die Daten nicht auf eine bestimmte Auswertung hin erfasst werden.  
 
 From data, we make numbers, pictures, and decisions. Most commonly we make pictures, in a process called 'symbolization' - deciding what visual elements will represent what different parts of a dataset. We analyze data, which means we transform, aggregate, and summarize it to give different answers and represent different aspects of knowledge. The two tasks of symbolization and analysis are often combined, with symbolization forming the limits of what we can represent and analysis defining the aspects of data we focus on.
 
